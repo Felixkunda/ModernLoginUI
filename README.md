@@ -1,5 +1,26 @@
-# MODERN LOGIN UI x FLUTTER
+# Neetra Portal App For Nandos
 
-Watch tutorial here: https://youtu.be/Dh-cTQJgM-Q
+This is a Flutter application that show delivery systems and maintenance system for all nandos outlets
 
-![72692840-4960-4603-B21E-3BC8442AA19F](https://user-images.githubusercontent.com/29016489/206952739-29d2403c-c26b-472f-9f4d-fdc0e1458326.JPG)
+## Screenshots
+
+![Screenshot 1](lib/images/screenshot1.png)
+*Login*
+
+![Screenshot 2](lib/images/screenshot2.png)
+*Home Page*
+
+![Screenshot 3](lib/images/screenshot3.png)
+*Maintenance Portal & Delivery Portal*
+
+## Description
+
+MyApp showcases various features of Flutter, including:
+
+- Displaying Login system with a nice UI
+- Providing a clean and intuitive user interface.
+- Implementing basic navigation between screens.
+- Demonstrating best practices for Flutter app development.
+
+## Getting Started
+
